@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+canvas{
+    border: 2px solid black;
+    background-color: white;
+    position: absolute;
+    z-index: 10;
+}
+
+
+a{
+    background-color: coral;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 30px;
+}
+a.hover{
+    background-color: azure;
+}
+
+.indexBtn{
+    float: center;
+    margin: 300px;
+    margin-left: 600px;
+}
+
+body{
+    background-color: deepskyblue;
+}
+
+.aniBtn{
+    background-color: coral;
+    color: white;
+    border: none;
+}
